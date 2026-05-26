@@ -48,7 +48,7 @@ print(Y_predicted)
 plt.scatter(X,Y)
 plt.plot(X,Y_predicted,color="red")
 plt.show()
-
+```
 ## Output:
 
 <img width="733" height="617" alt="Ex-1" src="https://github.com/user-attachments/assets/9501f488-bb55-41f9-800a-a7e289e05b5c" />
